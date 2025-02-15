@@ -1,0 +1,54 @@
+baseURL = "https://viduq.github.io/"
+languageCode = "en-us"
+title = "viduqlog"
+theme = "cactus"
+publishdir = "public"
+canonifyurls = true
+
+[params]
+colortheme = "light"
+description = "scripta manent"
+mainSection = "posts"
+tagsOverview = false
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "all posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "tags"
+url = "/tags"
+weight = 3
+
+[[menu.main]]
+name = "about"
+url = "/about"
+weight = 4
+
+[[menu.main]]
+name = "contact"
+url = "/contact"
+weight = 5
+
+
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
