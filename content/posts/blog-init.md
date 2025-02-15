@@ -8,5 +8,5 @@ You are reading the first post of my blog.
 
 I don't know yet if this is going anywhere.
 
-Posts are  be in German or English.
+Posts are in German or English.
 
